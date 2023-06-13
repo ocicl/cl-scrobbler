@@ -1,0 +1,9 @@
+* cl-scrobbler
+
+A Common Lisp library for scrobbling to Last.fm
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/redline6561/cl-scrobbler.git |
+| commit  | 0635e9a                                             |
+| systems | cl-scrobbler                                        |
+|---------+-----------------------------------------------------|
